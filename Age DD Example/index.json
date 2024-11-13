@@ -13,5 +13,6 @@
   "784501912.json": "46-50",
   "842290903.json": "Sign in",
   "842485840.json": "51-55",
-  "849749768.json": "Based on the information you provided when you enrolled in this study, you are [Age from Enrollment Questionnaire] years old today. Is that correct?"
+  "849749768.json": "Based on the information you provided when you enrolled in this study, you are [Age from Enrollment Questionnaire] years old today. Is that correct?",
+  "982718090.json": "Age derived from DOB at time of user profile completion."
 }
